@@ -1,0 +1,21 @@
+.todoStyle {
+  width: fit-content;
+  margin-left: 500px;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.task {
+  padding: 15px;
+}
+
+.eachTask {
+  padding: 15px;
+  display: flex;
+}
+.eachButton {
+  margin-top: 12px;
+  height: 25px;
+  padding: 5px;
+  margin-left: 10px;
+}
